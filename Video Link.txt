@@ -1,0 +1,28 @@
+Good Morning/Afternoon/Evening Sir,
+
+Here is the video timelapse for the coding process:
+
+Link:
+https://drive.google.com/file/d/1rw1KukkKIv_WDScUJ-Q04cUq-LxBnJDq/view?usp=share_link
+
+
+Notes:
+
+March 5 2023: ~4:00pm - ~10:16pm (0:00 - 10:15)
+	Started Profile Page/Main
+	Finished Profile Page
+
+March 6 2023: ~7:20pm - ~10:00pm (10:15 - 17:00)
+	Started Contact Page
+	Finished Contact Page
+
+	Fixed Minor Issues with other pages
+	Optimized previous code
+
+March 8 2023: ~8:50am - ~2:20pm (17:00 - 27:14)
+	Started Home/Index Page
+	Finished Home/Index Page
+	
+	Fixed Minor Issues with other pages 
+	Optimized previous code 
+	Double Checking Design
